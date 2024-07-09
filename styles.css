@@ -1,0 +1,17 @@
+.odd {
+    font-size: 96px;
+    text-align: center;
+}
+
+.recipe {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.title {
+    font-size: 69px;
+}
+
+.ingredients {
+    color: red;
+}
